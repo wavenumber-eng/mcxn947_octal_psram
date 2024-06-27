@@ -1,6 +1,6 @@
 # mcxn947_octal_psram
 
-- Demo project to interface 8MB octal  PSRAM to the MCXN947
+- Link to paper with details : [https://www.wavenumber.net/papers/octal-psram-with-the-mcxn947/](https://www.wavenumber.net/papers/octal-psram-with-the-mcxn947/)
 - Builds with MCUXpresso IDE v11.9.0 [Build 2144] [2024-01-05] or later
 - Segger Ozone .jdebug configuration included.
 - 
